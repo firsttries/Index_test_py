@@ -4,7 +4,7 @@ from tqdm import tqdm                                    #Импорт прог�
 driver = webdriver.Chrome()                              #Инициализация драйвера(браузера)
 
 
-driver.get("https://s3.eu-central-1.amazonaws.com/qa-web-test-task/1.html") #638, 3395 Начальный сайт
+driver.get("https://s3.eu-central-1.amazonaws.com/qa-web-test-task/1.html") #Начальный сайт
 
 #driver.minimize_window()                                #Минимизация окна
 
